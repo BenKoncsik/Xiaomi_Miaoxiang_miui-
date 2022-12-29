@@ -9,3 +9,4 @@ Miaoxiang miui+ install nem xiaomi laptophoz
 <hr>
 <br> Frissíteni nem lehet mert nem xiaomi latop  :( de müködik a miui+ (xiaomi.eu rom tesztelve (Redmi k20pro) kinai stabil rom tesztelve (Mi 10)). 
 Elméletbe ha a biosba sikerülne átírni a laptop gyártoját és típusát akkor települne. Nekem még nem sikerült. Ha sikerül nyilvánossá teszem.
+<br> Ugyan ez miatt nem müködik a mi Smart Hub

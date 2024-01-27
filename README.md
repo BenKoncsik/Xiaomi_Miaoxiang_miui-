@@ -9,4 +9,4 @@ Miaoxiang miui+ install nem xiaomi laptophoz
 <hr>
 <br>3.2.x Frissítés:
 A wtsapi32.dll-t és a AIoT_master_3.2.0.296_2acf4b05.exe kell bemásolni és felül írni a C:\ProgramData\Timi Personal Computing\Update\18\Update mapába majd elindítani az exet elfogadni mindent és kész.
-
+A ez a dll már ott van az update mappában mindegyik frissítés fel fog menni amit fel felajál a szoftver.

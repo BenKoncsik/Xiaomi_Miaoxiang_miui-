@@ -1,4 +1,4 @@
-# Xiaomi_Miaoxiang_miui+
+# Xiaomi_Miaoxiang_miui+ Mi Share
 Miaoxiang miui+ install nem xiaomi laptophoz
 
 <li>1. Futassuk a  instal_Miaoxiang.bat -ot (a benne lévő parancs: "start Miaoxiang_3.0.0.53.exe /I").

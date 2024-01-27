@@ -7,6 +7,6 @@ Miaoxiang miui+ install nem xiaomi laptophoz
 <li>https://github.com/Koncsik-cyber/Xiaomi_Miaoxiang_miui-
 <li>https://drive.google.com/drive/folders/1B5c1hr0LE7lzQ71QIX4ENUulwcnTD-Zy?usp=sharing
 <hr>
-<br> Frissíteni nem lehet mert nem xiaomi latop  :( . De müködik a miui+ (kinai stabil rom tesztelve (Mi 10)). 
-Elméletbe ha a biosba sikerülne átírni a laptop gyártoját és típusát akkor települne. Nekem még nem sikerült. Ha sikerül nyilvánossá teszem.
-<br> Ugyan ez miatt nem müködik a Mi Smart Hub
+<br>3.2.x Frissítés:
+A wtsapi32.dll-t és a AIoT_master_3.2.0.296_2acf4b05.exe kell bemásolni és felül írni a C:\ProgramData\Timi Personal Computing\Update\18\Update mapába majd elindítani az exet elfogadni mindent és kész.
+

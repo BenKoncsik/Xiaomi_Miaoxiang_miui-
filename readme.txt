@@ -8,5 +8,4 @@ https://github.com/Koncsik-cyber/Xiaomi_Miaoxiang_miui-
 
 https://drive.google.com/drive/folders/1B5c1hr0LE7lzQ71QIX4ENUulwcnTD-Zy?usp=sharing
 
-Frissíteni nem lehet mert nem xiaomi latop  :( de müködik a miui+ (xiaomi.eu rom tesztelve (Redmi k20pro) kinai stabil rom tesztelve (Mi 10)). 
-Elméletbe ha a biosba sikerülne átírni a laptop gyártoját és típusát akkor települne. Nekem még nem sikerült. Ha sikerül nyilvánossá teszem.
+
